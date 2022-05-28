@@ -189,7 +189,7 @@ class Map:
             </html>
             """
      
-        iframe = folium.branca.element.IFrame(html=html, width=350, height=350)
+        iframe = folium.branca.element.IFrame(html=html, width=320, height=320)
         popup = folium.Popup(iframe, max_width=500)
 
         return popup
