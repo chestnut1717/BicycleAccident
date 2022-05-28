@@ -13,6 +13,6 @@
 
 
 ### 예시
-![image](https://user-images.githubusercontent.com/62554639/170812755-5b1418ef-437e-47b7-bf65-526ff040479a.png)
+![image](https://user-images.githubusercontent.com/62554639/170813574-05238969-2e85-4fc5-ace1-961b0fac63b6.png)
 
 
