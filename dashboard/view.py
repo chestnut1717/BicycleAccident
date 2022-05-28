@@ -23,7 +23,7 @@ def show_page():
 
   # 지도 size
   size_list = ["800x600", "1200x720", "1920x1080"]
-  size = st.sidebar.selectbox('지도의 크기를 선택해세요', size_list)
+  size = st.sidebar.selectbox('지도의 크기를 선택하세요', size_list)
   width, height = [int(num) for num in size.split('x')]
 
 
