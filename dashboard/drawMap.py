@@ -172,8 +172,8 @@ class Map:
                         <td>중상 : <span id="woundHigh">""" + str(wound_high) + """</span></td>
                       </tr>
                       <tr class="info accCnt">
-                        <td>부상 : <span id="woundMdl">""" + str(wound_mdl) + """</span></td>
-                        <td>경상 : <span id="woundLow">""" + str(wound_low) + """</span></td>
+                        <td>경상 : <span id="woundMdl">""" + str(wound_mdl) + """</span></td>
+                        <td>부상 : <span id="woundLow">""" + str(wound_low) + """</span></td>
                       </tr>
                       <tr class="info accRsn">
                         <td colspan="2">주요사고원인 : <span id="rsn">""" +  acc_rsn + """</span></td>
