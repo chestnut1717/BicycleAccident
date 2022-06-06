@@ -11,5 +11,11 @@
  - 3.5  wordcloud_data : 워드클라우드 작업할 때 모아둔 폰트들
 
 
+## 데이터맵
+지리 데이터 시각화 대시보드는 다음 URL을 통해서 접속할 수 있습니다
+ - https://share.streamlit.io/chestnut1717/dashboard-bicycleaccident/main/view.py
+ ![image](https://user-images.githubusercontent.com/62554639/172156426-5d17c222-a0d7-4547-abd5-2b839441dcb9.png)
+
+
  
  
