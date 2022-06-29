@@ -10,6 +10,7 @@
  - 3.4  final_data(**실제로 사용한 데이터**) : 각종 전처리, 크롤링 데이터와 통합작업 후의 최종 excel 파일
  - 3.5  wordcloud_data : 워드클라우드 작업할 때 모아둔 폰트들
 
+4. 대시보드(데이터맵) 배포 link : https://share.streamlit.io/chestnut1717/dashboard-bicycleaccident/main/view.py
 
 ## 데이터맵
 지리 데이터 시각화 대시보드는 다음 URL을 통해서 접속할 수 있습니다
